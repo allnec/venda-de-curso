@@ -1,2 +1,2 @@
 # venda-de-curso
-console.log ("criando")
+Sistema para venda de cursos de ingles
